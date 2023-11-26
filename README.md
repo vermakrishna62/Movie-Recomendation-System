@@ -4,8 +4,8 @@
 The TMDb 5000 Movie Dataset contains information on a diverse set of movies, including both mainstream and independent films. It's a structured dataset with various features that cover different aspects of movies.
 
 ## Key Features:
-
-Title and Overview:
+<ul>
+<li>Title and Overview:</li>
 Movie titles and brief overviews provide a quick summary of the storyline.
 
 Genres:
@@ -28,3 +28,4 @@ Keywords associated with each movie, offering additional insights into its theme
 
 Runtime:
 The duration of each movie is provided, allowing for analysis of film lengths.
+</ul>
