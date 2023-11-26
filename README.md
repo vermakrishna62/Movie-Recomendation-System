@@ -5,27 +5,20 @@ The TMDb 5000 Movie Dataset contains information on a diverse set of movies, inc
 
 ## Key Features:
 <ul>
-<li>Title and Overview:</li>
-Movie titles and brief overviews provide a quick summary of the storyline.
+<li>Title and Overview: Movie titles and brief overviews provide a quick summary of the storyline.
+</li>
+  
+<li>Genres: Genres categorize movies into different thematic groups, such as action, comedy, drama, etc. </li>
 
-Genres:
-Genres categorize movies into different thematic groups, such as action, comedy, drama, etc.
+<li>Release Date: The dataset includes information on the release date of each movie, allowing for temporal analysis.</li>
 
-Release Date:
-The dataset includes information on the release date of each movie, allowing for temporal analysis.
+<li>Budget and Revenue: Financial aspects like budget and revenue provide insights into the economic performance of movies.</li>
 
-Budget and Revenue:
-Financial aspects like budget and revenue provide insights into the economic performance of movies.
+<li>Popularity and Vote Averages: Popularity scores and vote averages reflect audience reception and engagement.</li>
 
-Popularity and Vote Averages:
-Popularity scores and vote averages reflect audience reception and engagement.
+<li>Cast and Crew: Information about the cast and crew, including actors, directors, and producers.</li>
 
-Cast and Crew:
-Information about the cast and crew, including actors, directors, and producers.
+<li>Keywords: Keywords associated with each movie, offering additional insights into its theme or content.</li>
 
-Keywords:
-Keywords associated with each movie, offering additional insights into its theme or content.
-
-Runtime:
-The duration of each movie is provided, allowing for analysis of film lengths.
+<li>Runtime: The duration of each movie is provided, allowing for analysis of film lengths.</li>
 </ul>
